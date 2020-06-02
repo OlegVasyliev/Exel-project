@@ -1,0 +1,31 @@
+{
+  "name": "exel-project",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Exel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlegVasyliev/exel-project.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Oleh Vasiliev <olegvasiliev1991@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlegVasyliev/exel-project/issues"
+  },
+  "homepage": "https://github.com/OlegVasyliev/exel-project#readme",
+  "private ": true,
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
