@@ -40,7 +40,6 @@ class Dom {
     }
 }
 
-// event.target
 export function $(selector) {
     return new Dom(selector)
 }
