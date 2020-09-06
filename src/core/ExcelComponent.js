@@ -10,7 +10,7 @@ export class ExcelComponent extends DomListener {
 
   prepare() {}
 
-  // Возвращает шаблон компонента
+  // Повертає шаблон компонента
   toHTML() {
     return ''
   }
